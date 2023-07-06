@@ -38,6 +38,6 @@ U8  gu8DetachSleepIndFlag   = DISABLE;
 
 //add for git 
 //test - dhy
-<<<<<<< .mine//test - dhy3
-=======//xxxxxxxxxxxxxxxxx
->>>>>>> .theirs
+//test - dhy3
+
+
